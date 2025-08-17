@@ -155,3 +155,22 @@ span {
 .panel-deals {
     font-size: 0.9rem;
 }
+
+/*hero section*/
+.hero-section {
+    background-image: url(Hero\ section\ 1.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.hero-msg {
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-msg a {
+    color: #007385;
+}
